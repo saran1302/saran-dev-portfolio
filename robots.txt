@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saran1302.github.io/saran-dev-portfolio/sitemap.xml
